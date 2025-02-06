@@ -1,4 +1,4 @@
-## Créez un dossier data à la racine du projet pour y mettre les fichiers .csv ainsi que les dossiers 'train' et 'test'
+## Créez un dossier 'data' à la racine du projet pour y mettre les fichiers .csv ainsi que les dossiers 'train' et 'test'
 
 ## Créer un environnement virtuel
 
