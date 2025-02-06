@@ -9,7 +9,7 @@ python -m venv votreEnvironnement
 ## Activez votre environnement virtuel
 
 ```
-.\nom_environnement\Scripts\Activate
+.\votreEnvironnement\Scripts\Activate
 ```
 
 ## Installez les dépendances trouvées dans requirements.txt
